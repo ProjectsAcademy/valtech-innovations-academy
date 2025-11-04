@@ -1,2 +1,2 @@
-# fynd-dev-ui-valtech-innovations-academy
+dev-ui-valtech-innovations-academy
  
